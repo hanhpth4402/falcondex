@@ -1,0 +1,13 @@
+.ModalCustom {
+  .modal-content {
+    padding: 2px 0;
+    background: radial-gradient(circle at 10% 20%, rgb(67, 144, 233) 0%, rgb(78, 226, 198) 90.1%);
+  }
+}
+
+.ModalCustomContainer {
+  width: 100%;
+  background-color: #252833;
+  color: #D8D9DA;
+  border-radius: var(--bs-modal-border-radius);
+}

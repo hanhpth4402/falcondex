@@ -1,0 +1,16 @@
+.PoolInfo {
+  &:hover {
+    background-color: #252833;
+    border-radius: var(--bs-border-radius-xl);
+    cursor: pointer;
+  }
+}
+
+.PoolListContainer {
+  width: 400px;
+  height: fit-content;
+  margin: 20px 0 0 0;
+  padding: 12px;
+  border-radius: var(--bs-border-radius-xl);
+  background-color: #2f323d;
+}

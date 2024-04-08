@@ -1,0 +1,23 @@
+.TokenContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px;
+  background-color: #252833;
+  border-radius: var(--bs-border-radius-xl);
+  cursor: pointer;
+}
+
+.TokenContainerRow {
+  display: flex;
+  align-items: center;
+  padding: 6px;
+  margin: 4px 0;
+  gap: 6px;
+  cursor: pointer;
+
+  &:hover {
+    border-radius: var(--bs-border-radius-xl);
+    background-color: #2e313b;
+  }
+}

@@ -1,0 +1,2 @@
+export const REWARD_TOKEN_PER_BLOCK = 100000;
+export const REWARDS_PRECISION = 1e12;

@@ -1,0 +1,19 @@
+.TokenInputContainer {
+  background-color: #1b1e29;
+  color: #D8D9DA;
+  border-radius: var(--bs-border-radius-xl);
+  padding: calc(var(--bs-gutter-x) * .5);
+  margin-bottom: 4px;
+}
+
+.ValueInput {
+  background-color: #252833;
+  border: none;
+  color: rgb(216, 217, 218);
+
+  &:focus {
+    background-color: #252833;
+    color: rgb(216, 217, 218);
+    box-shadow: none;
+  }
+}

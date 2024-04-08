@@ -1,0 +1,21 @@
+.FarmHeader {
+  font-weight: 600;
+  color: #D8D9DA;
+}
+
+.FarmPoolHeader {
+  font-weight: 600;
+  color: #D8D9DA;
+  border-bottom: solid 1px #2f323d;
+}
+
+.FarmPool {
+  background-color: #1b1e29;
+  border-radius: var(--bs-border-radius-xl);
+}
+
+.FarmAction {
+  width: 32%;
+  background-color: #2f323d;
+  border-radius: var(--bs-border-radius-xl);
+}
